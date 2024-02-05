@@ -129,5 +129,7 @@ top: 3vw;
     font-size: 20px;
     font-family: reg;
     transform: rotate(-90deg);
-    position: fixed;}
+    position: fixed;
+z-index: 6;}
+    
     
