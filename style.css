@@ -12,7 +12,7 @@
 }
 
 #titre {width: 20vw;
-    font-size: 300px;
+    font-size: 100px;
     transform: rotate(-90deg);
     left: 80%;
     text-align: center;
@@ -126,7 +126,7 @@ top: 3vw;
 
 #instagram {
     width:20vw;
-    font-size: 50px;
+    font-size: 20px;
     font-family: reg;
     transform: rotate(-90deg);
     position: fixed;}
